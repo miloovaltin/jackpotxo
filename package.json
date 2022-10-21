@@ -1,0 +1,16 @@
+{
+"name": "jackpotxo",
+"theme": "jackpotxo",
+"version": "8.7.1",
+"description": "jackpotxo สมัครสมาชิกเว็บบาคาร่าเว็บตรง คนเล่นเยอะ รับโบนัสเครดิตฟรี",
+"keywords": [
+"jackpotxo",
+"jackpotxo เครดิตฟรี",
+"jackpotxo ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/jackpotxo",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
